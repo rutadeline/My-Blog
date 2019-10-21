@@ -1,0 +1,22 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutadeline/My-Blog.git"
+  },
+  "author": "Uwibambe Adeline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutadeline/My-Blog/issues"
+  },
+  "homepage": "https://github.com/rutadeline/My-Blog#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
